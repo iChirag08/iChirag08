@@ -1,197 +1,138 @@
-<!-- ========================= Banner ========================= -->
+<div align="center">
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Chirag&fontAlign=50&fontSize=65&fontColor=ffffff&animation=fadeIn"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:2c5364,100:1e3c72&text=Hi%20There,%20I'm%20Chirag&fontAlign=50&fontAlignY=38&fontSize=42&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js&descAlign=50&descAlignY=58&descSize=18&animation=twinkling"/>
 
-<!-- ========================= Typing ========================= -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=const+developer+%3D+%7B;+%C2%A0%C2%A0name%3A+%27Chirag%27%2C;+%C2%A0%C2%A0stack%3A+%5B%27React%27%2C+%27Node%27%2C+%27MongoDB%27%5D%2C;+%C2%A0%C2%A0passion%3A+%27Building+scalable+apps%27;%7D%3B;Turning+ideas+into+production-ready+code+%F0%9F%9A%80"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Chirag;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
-</p>
+<br/>
 
-<!-- ========================= Social ========================= -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 
-<p align="center">
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iChirag08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.com)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+
+<h2 align="center">🧑‍💻 About Me</h2>
+
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- 🔭 Full Stack Developer specializing in the **MERN stack** & **Next.js**
+- 🌱 Currently leveling up in **TypeScript**, **System Design**, and **Cloud**
+- ⚡ I turn coffee into clean, scalable, production-ready code
+- 🎯 Focused on performance, UI/UX, and building apps that actually last
+- 💬 Ask me about React, Node.js, or anything full-stack
+- 📫 Reach me at **your@email.com**
+
+<br clear="right"/>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+
+<h2 align="center">⚙️ Tech Arsenal</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,supabase,tailwind,bootstrap,figma,git,github,vscode,vercel&perline=10"/>
+
+<br/><br/>
 
 <a href="https://github.com/iChirag08">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&titleColor=00F7FF&lineCount=1&line1=react%2CReact%2C61DAFB%3Bnextjs%2CNext.js%2Cffffff%3Btailwindcss%2CTailwind%2C38BDF8%3B&theme=dark&border=00F7FF"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br/>
+
+<a href="https://github.com/iChirag08">
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend&titleColor=00F7FF&lineCount=1&line1=nodejs%2CNode.js%2C339933%3Bexpress%2CExpress%2Cffffff%3Bmongodb%2CMongoDB%2C47A248%3B&theme=dark&border=00F7FF"/>
 </a>
 
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</div>
 
-<a href="https://portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-</p>
+<h2 align="center">🚀 Featured Projects</h2>
 
----
+<div align="center">
 
-# 👨‍💻 About Me
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iChirag08&repo=portfolio&theme=tokyonight&hide_border=true"/></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iChirag08&repo=ecommerce-app&theme=tokyonight&hide_border=true"/></a>
+<br/>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iChirag08&repo=chat-app&theme=tokyonight&hide_border=true"/></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iChirag08&repo=task-manager&theme=tokyonight&hide_border=true"/></a>
 
-```yaml
-Name: Chirag
+</div>
 
-Role: Full Stack Developer
+<p align="center"><i>Update the <code>repo=</code> values above with your real repository names to activate these cards.</i></p>
 
-Location: India
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-Learning:
-  - Next.js
-  - TypeScript
-  - System Design
-  - Cloud
+<h2 align="center">📊 GitHub Analytics</h2>
 
-Focus:
-  - MERN Stack
-  - Scalable Web Apps
-  - UI/UX
-```
+<div align="center">
 
----
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=iChirag08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iChirag08&layout=compact&theme=tokyonight&hide_border=true"/>
 
-# 🚀 Tech Stack
+<br/><br/>
 
-<p align="center">
+<img width="70%" src="https://streak-stats.demolab.com?user=iChirag08&theme=tokyonight&hide_border=true&fire=00F7FF&ring=00F7FF"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,supabase,tailwind,bootstrap,figma,git,github,vscode,vercel"/>
+<br/><br/>
 
-</p>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=iChirag08&theme=tokyo-night&hide_border=true&area=true"/>
 
----
+</div>
 
-# ⚡ Languages
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-<p align="center">
+<h2 align="center">🏆 Trophy Case</h2>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=iChirag08&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7"/>
+</div>
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<h2 align="center">🐍 Contribution Snake</h2>
 
-<img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Tech Stack |
-|----------|------------|
-| 🌐 Portfolio Website | React, Tailwind |
-| 🛒 E-Commerce Website | MERN |
-| 💬 Chat App | Node.js, Socket.io |
-| 📋 Task Manager | React, Firebase |
-| 📝 Blog Platform | Next.js |
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iChirag08&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iChirag08&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="65%" src="https://streak-stats.demolab.com?user=iChirag08&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iChirag08&theme=algolia&no-frame=true&margin-w=10&row=1&column=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iChirag08&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Contribution Snake
-
-<p align="center">
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</div>
 
-</p>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
----
+<h2 align="center">💬 Random Dev Wisdom</h2>
 
-# 💬 Random Dev Quote
-
-<p align="center">
-
+<div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
 
-</p>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
----
+<h2 align="center">🤝 Let's Connect</h2>
 
-# 📊 Visitor Counter
+<div align="center">
 
-<p align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iChirag08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.com)
 
-<img src="https://komarev.com/ghpvc/?username=iChirag08&style=for-the-badge&color=blue"/>
+<br/><br/>
 
-<img src="https://img.shields.io/github/followers/iChirag08?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=iChirag08&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/iChirag08?style=for-the-badge&color=00F7FF&labelColor=181717"/>
 
-<img src="https://img.shields.io/github/stars/iChirag08?style=for-the-badge"/>
+<br/>
 
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
 
----
+</div>
 
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/iChirag08">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:your@email.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
-
-</p>
- make it more professional 
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0f2027,50:2c5364,100:1e3c72&animation=twinkling"/>
