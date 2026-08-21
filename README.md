@@ -175,11 +175,11 @@ Focus:
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="[https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/i-chirag/)">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:chiragdhiman829@email.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -194,4 +194,4 @@ Focus:
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
 
 </p>
- make it more professional 
+
