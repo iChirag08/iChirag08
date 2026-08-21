@@ -5,9 +5,11 @@
 </p>
 
 <!-- ========================= Typing ========================= -->
+<!-- NOTE: switched from readme-typing-svg.herokuapp.com (Heroku free tier is dead,
+     these images no longer load) to the maintained demolab.com host -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Chirag;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Chirag;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
 </p>
 
 <!-- ========================= Social ========================= -->
@@ -18,11 +20,11 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://www.linkedin.com/in/i-chirag/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:chiragdhiman829@email.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -134,10 +136,17 @@ Focus:
 ---
 
 # 🔥 GitHub Contribution Snake
+<!-- This image will 404 until the snake.yml workflow (provided separately) runs
+     at least once on your iChirag08/iChirag08 profile repo. It generates and
+     pushes github-contribution-grid-snake-dark.svg to an "output" branch. -->
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iChirag08/iChirag08/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iChirag08/iChirag08/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/iChirag08/iChirag08/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </p>
 
@@ -175,7 +184,7 @@ Focus:
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="[https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/i-chirag/)">
+<a href="https://www.linkedin.com/in/i-chirag/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -194,4 +203,3 @@ Focus:
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
 
 </p>
-
